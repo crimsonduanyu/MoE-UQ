@@ -1,6 +1,7 @@
 # ST-MoE-RMQRN (Code Repo)
 
-REFACTORED CODES ARE AVAILABLE AT: https://github.com/crimsonduanyu/MoE-UQ-Refactored
+**This repo is deprecated, the refactored code might be more practical.**
+**REFACTORED CODES ARE AVAILABLE AT:** https://github.com/crimsonduanyu/MoE-UQ-Refactored
 
 This repository contains the reference implementation for the paper:
 
