@@ -1,5 +1,7 @@
 # ST-MoE-RMQRN (Code Repo)
 
+REFACTORED CODES ARE AVAILABLE AT: https://github.com/crimsonduanyu/MoE-UQ-Refactored
+
 This repository contains the reference implementation for the paper:
 
 **“Uncertainty quantification for joint demand prediction of multi-modal ride-sourcing services using spatiotemporal Mixture-of-Expert neural network”**
